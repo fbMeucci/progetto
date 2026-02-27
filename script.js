@@ -1,1 +1,2 @@
-document.getElementById("par").innerHTML = "Ciao dal paragrafo"
+let par = document.getElementById("par")
+par.innerHTML = "Ciao dal paragrafo"
