@@ -1,0 +1,1 @@
+document.getElementById("par").innerHTML = "Ciao dal paragrafo"
